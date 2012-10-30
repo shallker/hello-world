@@ -1,0 +1,25 @@
+# header1
+## header2
+
+*important*, _important_ // 斜体
+**very important**, __very important__  // 斜体+粗体
+
+[link](http://website.com)
+[link](mailto:shallker@profer.com)
+<shallker.wang@profero.com>
+
+# UL
+1.
+2.
+  1.
+  2.
+3.
+
+# OL
+*
+*
+* 
+
+`code area`
+
+---  // 分行符
