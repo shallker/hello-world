@@ -3,6 +3,10 @@ revert commit
 roll back to this commit
 
 # .gitignore
-test.txt  // ºöÂÔtest.txt Õâ¸öÎÄ¼ş
-.netbeans  // ºöÂÔ.netbeansÕâ¸öÎÄ¼ş¼Ğ
-*.svn  // ºöÂÔËùÓĞ .svn ½áÎ²µÄÎÄ¼ş
+test.txt  // å¿½ç•¥test.txt è¿™ä¸ªæ–‡ä»¶
+.netbeans  // å¿½ç•¥.netbeansè¿™ä¸ªæ–‡ä»¶å¤¹
+*.svn  // å¿½ç•¥æ‰€æœ‰ .svn ç»“å°¾çš„æ–‡ä»¶
+
+# commit summary
+add/fix/remove/implement/
+fixed #12
