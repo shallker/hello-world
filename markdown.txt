@@ -1,6 +1,8 @@
 // add comment line
 // one more line
 // one two lines
+// line 3
+// line 4
 # header1
 ## header2
 
