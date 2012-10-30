@@ -1,0 +1,8 @@
+# history -> select one
+revert commit
+roll back to this commit
+
+# .gitignore
+test.txt  // 忽略test.txt 这个文件
+.netbeans  // 忽略.netbeans这个文件夹
+*.svn  // 忽略所有 .svn 结尾的文件
