@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "repo": "shallker/hello-world",
+  "description": "hello world",
+  "version": "0.0.1",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
